@@ -1,11 +1,11 @@
-# Getting Started with Create React App
+# Projeto Pagina de restaurante feito com  ReactJs 
 
-Projeto Pagina de restaurante feito com  ReactJs 
 
-## Available Scripts
-Oque você irá encontrar nesse projeto:
+
+##Oque você irá encontrar nesse projeto:
+
 <ul>
-<li>Separaão de sessões(Navbar,Header,AboutUs,SpecialMenuChef,Intro,Laurels,Gallery,FindUs e Footer<li/>
+<li>Separaão de sessões: Navbar,Header,AboutUs,SpecialMenuChef,Intro,Laurels,Gallery,FindUs e Footer<li/>
 <li>Estilização Responsiva <li/>
 <li>Toggle Menu usando UseState<li/>
 <li>Toggle Menu usando UseState<li/>
