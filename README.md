@@ -1,6 +1,6 @@
-# Pagina de apresentação Restaurante
+# Pagina de apresentação Restaurante usando ReactJs
 
-## https://restaurant-about.vercel.app
+## https://presentation-restaurant.vercel.app
 
 
 
